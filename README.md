@@ -36,6 +36,7 @@ To run this app, you'll need the following:
 
 ## Screenshots
 ![Home_Screen](https://cdn.discordapp.com/attachments/1218139631372206120/1218139783352815686/image.png?ex=66069414&is=65f41f14&hm=4bf191749b48fa687a66a7254bd58c6fb0191a571f239dd9936502f0b09ea14c&)
+![Result_Screen](https://cdn.discordapp.com/attachments/1218139631372206120/1218139844585324564/image.png?ex=66069422&is=65f41f22&hm=d814a35ec1eb2ab62cf217806b35e36f6233c7ecd773948b015c55f8992aff67&)
 
 ## Contributing
 
